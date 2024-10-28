@@ -1,0 +1,4 @@
+Persona.class
+CalcularIACServlet.class
+com/mycompany/calculadoraiac/resources/JakartaEE10Resource.class
+com/mycompany/calculadoraiac/JakartaRestConfiguration.class
